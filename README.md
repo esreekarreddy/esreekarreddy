@@ -29,15 +29,9 @@ This profile is a curated entry point to the work I care about most. The broader
 - eden.pm - full-stack engineering in a serverless startup environment
 - AI Camp - teaching AI and Python through hands-on workshops
 
-## Snapshot
-
-- 29 documented projects
-- 23 live deployments
-- 9 AI and ML builds
-
 ## Links
 
 - Portfolio: https://www.sreekarreddy.com/
 - AI Posts: https://www.sreekarreddy.com/ai-posts
 - LinkedIn: https://www.linkedin.com/in/esreekarreddy/
-- Email: esreekarreddy@gmail.com
+- Email: contact@sreekarreddy.com
